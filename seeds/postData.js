@@ -3,13 +3,13 @@ const { Post
 
 const postData = [
     {
-        title: "Taskmaster goes public!",
-        post_content: "Taskinator is a task-tracker app that will allow you to organize your personal to-do list items by clicking and dragging them into categories like To Do, In Progress, and Completed.",
+        title: "FortOver is the future!",
+        post_content: "Provides stats from video games “Fortnite” and Overwatch”. Users are able to compare stats with friends, as well as search stats for professional players as well.",
         user_id: 3
     },
     {
-        title: "Zoo Keepr reaches 1 million subscribers!",
-        post_content: "The local zoo has received funding to build a new online catalog, and they've asked to create a web server for a front-end application they’re developing, called Zoo Keepr. This site’s data will be stored on the server. This will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device",
+        title: "Marvelizer goes public!",
+        post_content: "The MARVELizer is a web app that enables you to search for a Marvel character, view information and Giphys related to the character, and save favorite Giphys. The search feature queries the Marvel API for a character’s description and a thumbnail, and it uses the character name to query the Giphy API for the Giphys related to the character.",
         user_id: 1
     },
     {
@@ -18,13 +18,13 @@ const postData = [
         user_id: 2
     },
     {
-        title: "Tech Blog has been released!",
-        post_content: "A CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. This site will be built from scratch and deployed to Heroku. The app will follow MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication",
+        title: "Activity Selector!",
+        post_content: "or our first group project, we were given the task of collaboratively creating an interactive webpage that will call on multiple APIs to create a functional, useful web application. Requirements were that we use a framework other than Bootstrap, deliver a polished UI, and be intuitive for the user to quickly understand the purpose of the site itself.",
         user_id: 5
     },
     {
-        title: "Just Tech News goes public!",
-        post_content: "Just Tech News—a tech news website where users can post, upvote, and comment on links to news articles. Use Sequelize, an object-relational mapping (ORM) library, to simplify your MySQL queries, add password hashing so that users can create secure passwords, and connect your application to JawsDB, a MySQL add-on for Heroku",
+        title: "Hoppeator!",
+        post_content: "The Hoppeator is your one-stop shop to explore the world of beer. Our homepage features a short history of beer and we have pages to learn about the types of beer, search breweries and plan your beer crawl. You can save your favorite breweries and access them using the 'Favorites' page.",
         user_id: 4
     }
 ]

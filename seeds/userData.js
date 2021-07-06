@@ -3,46 +3,46 @@ const { User
 
 const userData = [
     {
-        username: "martin_bour",
-        twitter: "martinb",
-        github: "martinb",
-        email: "martin_b@gmail.com",
-        password: "p@ssword1"
+        username: "temi_femi",
+        twitter: "dolphTemi",
+        github: "temi_femi",
+        email: "temi22@gmail.com",
+        password: "password1"
     },
     {
-        username: "matt_b",
-        twitter: "mathewb",
-        github: "mathewb",
-        email: "mathew_b@gmail.com",
-        password: "p@ssword2"
+        username: "mike_z",
+        twitter: "mikeisdagoat",
+        github: "mike_z",
+        email: "mike_z@gmail.com",
+        password: "password2"
     },
     {
-        username: "shaun_c",
-        twitter: "shaun",
-        github: "shaun",
-        email: "shaun_c@gmail.com",
-        password: "p@ssword3"
+        username: "daniel_ross",
+        twitter: "dantheman",
+        github: "daniel_ross",
+        email: "daniel_ross@gmail.com",
+        password: "password3"
     },
     {
-        username: "lee_n",
-        twitter: "leenorris",
-        github: "leenorris",
-        email: "lee_n@gmail.com",
-        password: "p@ssword4"
+        username: "brandon_cowley",
+        twitter: "brantheman",
+        github: "brandon_cowley",
+        email: "brandon_cowley@gmail.com",
+        password: "password4"
     },
     {
-        username: "priya_r",
-        twitter: "priyaravi23",
-        github: "priyaravi23",
-        email: "priya_r@gmail.com",
-        password: "p@ssword5"
+        username: "trent_h",
+        twitter: "trent1234",
+        github: "trent_h",
+        email: "trent_h@gmail.com",
+        password: "password5"
     },
     {
-        username: "pooja",
-        twitter: "pooja_w",
-        github: "pooja",
-        email: "pooja@gmail.com",
-        password: "p@ssword6"
+        username: "ryanthebulldog",
+        twitter: "ryguy",
+        github: "ryanthebulldog",
+        email: "ryan@gmail.com",
+        password: "password6"
     }
 ]
 
