@@ -16,7 +16,7 @@
 # Description
  An application that allows one to sign up and create post that align with what is going on in tech!
 
-# Application Deplopyment
+# Application Deployment
  https://temitech-blog.herokuapp.com/
 
 # Usage
