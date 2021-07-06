@@ -27,6 +27,7 @@
     transition: background-color .1s;
     cursor: pointer;
     border-radius: 5px;
+    color: #3486eb;
   }
   
   .post-list {
@@ -69,7 +70,7 @@
   }
   
   header {
-    border-bottom: 1px solid rgb(5, 3, 3);
+    border-bottom: 1px solid rgb(68, 33, 33);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -79,6 +80,7 @@
   main {
     flex: 1;
     padding: 2% 4%;
+    background-color: #333;
   }
   
   .btn-no-style {
@@ -104,7 +106,7 @@
   }
   
   .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: #160703;
   }
   
   .post {
