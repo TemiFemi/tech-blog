@@ -5,7 +5,7 @@ const commentData = [
     {
         user_id: 1,
         post_id: 5,
-        comment_text: "This is dope!"
+        comment_text: "This is amazing work, well done!"
     },
     {
         user_id: 4,
